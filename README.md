@@ -1,5 +1,5 @@
 # Hi there I am Abdullah Albustanji 👋
-#### 🔭 I’m Full-Stack Developer, yearning to learn new things, and strive for higher experience and achievements in life. Project mangment experince with a comprehensive background in business management, customer services, operation management, and technical support.
+#### 🔭 I’m Full-Stack Developer, yearning to learn new things, and strive for higher experience and achievements in life. Project mangment experince with a comprehensive background in business management, customer services, and operation management.
 ----
 ### 📭Contact me with :
  
