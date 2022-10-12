@@ -1,11 +1,13 @@
-### Hi there I am Abdullah Albustanji 👋
-🔭 I’m Full-Stack Developer, yearning to learn new things, and strive for higher experience and achievements in life.
-Project mangment experince with a comprehensive background in business management, customer services, operation management, and technical support.
-
-You can contact me
+# Hi there I am Abdullah Albustanji 👋
+#### 🔭 I’m Full-Stack Developer, yearning to learn new things, and strive for higher experience and achievements in life. Project mangment experince with a comprehensive background in business management, customer services, operation management, and technical support.
+----
+### 📭Contact me with :
  
 ![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)
 ![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)
+
+----
+### 🛠️Languages & Tools
 
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
