@@ -3,7 +3,7 @@
 ----
 ### 📭Contact me with :
  
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)]("mailto:Abdulla.albustanji@gmail.com?"
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)]("Abdulla.albustanji@gmail.com?"
 )
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white<href="https://www.linkedin.com/in/abdullahalbustanji/.com?">)](https://www.linkedin.com/in/abdullahalbustanji/)
 
