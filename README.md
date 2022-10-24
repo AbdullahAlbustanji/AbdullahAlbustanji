@@ -1,5 +1,5 @@
 # Hi there I am Abdullah Albustanji 👋
-#### 🔭 A full stack web developer with an engineering project management background who is highly self-motivated and adaptable to learning new technologies; 
+#### 🔭 Full stack web developer with an engineering project management background who is highly self-motivated and adaptable to learning new technologies; 
 ----
 ### 📭Contact me with :
  
